@@ -1,0 +1,6 @@
+﻿hendelse
+
+spill start
+spiller a vinner
+spiller b vinner
+spill stopp
